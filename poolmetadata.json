@@ -2,9 +2,7 @@
 {
 "name": "Ashes",
 "description": "Cardano stake pool run by cryptocurrency enthusiast happy to be apart of decentralizing the protocol",
-"ticker": "ASHES",*
+"ticker": "ASHES",
 "homepage": "https://www.ashesstakepool.com/",
 "extended": "https://raw.githubusercontent.com/blacklilycapital/Ashes/main/https%3A/www.ashesstakepool/extended-poolmeta.json",
 }
-
-
