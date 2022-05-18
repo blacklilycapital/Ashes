@@ -2,29 +2,29 @@
     "info": {
         "url_png_icon_64x64": "",
         "url_png_logo": "",
-        "location": "",
+        "location": "Ione, Body Island",
         "social": {
-            "instagram_handle": "",
-            "discord_handle": "",
-            "reddit_handle": "",
-            "twitter_handle": "AshesStakePool",
-            "facebook_handle": "",
-            "youtube_handle": "",
-            "twitch_handle": "",
-            "telegram_handle": "",
-            "github_handle": ""
+            "instagram_handle": "anti.biz",
+            "discord_handle": "https://discord.gg/eBaHEhF",
+            "reddit_handle": "https://www.reddit.com/user/antibiz/",
+            "twitter_handle": "antibiz_",
+            "facebook_handle": "anti.biz",
+            "youtube_handle": "antibiz",
+            "twitch_handle": "antibiz",
+            "telegram_handle": "https://t.me/skull_pool",
+            "github_handle": "diicasses"
                        },
         "company": {
-            "name": "Ashes"
+            "name": "ANTI.BIZ"
                             },
         "about": {
-            "me": "",
-            "server": "",
-            "company": ""
+            "me": "Just a crazy skeleton hacker from the year 2227",
+            "server": "4x Ubuntu 20.04 LTS servers running in Amazon AWS",
+            "company": "Amazon"
                       },
         "my-pool-ids": {
-        "0": "",
-        "1": ""
+        "0": "pool1h0v99elmvl50rqk778ue6g49r3mtgq3z4draq6pzy0nqv000frd",
+        "1": "bbd852e7fb67e8f182def1f99d22a51c76b40222ab47d0682223e606"
                                  }
 }
 }
